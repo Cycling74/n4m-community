@@ -13,7 +13,7 @@ To add an example, you will need to add to the list in the [README](https://gith
 - The format within the list is `[Name](link) by [Author](link) - Description`. The README is a [Markdown file](https://guides.github.com/features/mastering-markdown/), which is a simple format to style text.
 - Make sure the example is well documented! It should be clear how to use the example.
 
-### Steps to add an Example
+### Steps to Add an Example
 1. Create a Github account if you do not already have one.
 2. Fork this repository by clicking on the "Fork" button in the upper right-hand corner. You will now have your own version of this repository that you can edit.
 3. Edit the README file, by clicking on the pencil icon in the upper-right hand corner, or by cloning your repository and editing the file locally. Commit your changes.
