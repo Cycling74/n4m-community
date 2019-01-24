@@ -11,3 +11,4 @@ _Please read the [contribution guidelines](https://github.com/Cycling74/n4m-comm
 - [Watch Youtube](https://github.com/Cycling74/n4m-examples/tree/6f96aa8aef7716e6790f936baf7646d169e7dce1/watch-youtube) by Julian from [Znibbles](https://www.znibbl.es/). Stream YouTube videos from Max.
 - [Static D3.js](https://github.com/Cycling74/n4m-examples/tree/8a92f9e492e7f3e6414c92c2fc37831f28f277a2/static-d3js) by Julian from [Znibbles](https://www.znibbl.es/). Generate data visualizations with D3.js from Max.
 - [Nature of Code](https://github.com/dfamil/n4m-examples/tree/master/natureofcode) by [David Familian](https://github.com/dfamil). Examples from [Nature of Code](https://natureofcode.com/) by Daniel Shiffman, Vectors chapter.
+- [Node LOM](https://github.com/iamjoncannon/nodeLOM) by [Jonathan Cannon](https://github.com/iamjoncanno). Enable Node.js to manipulate a Live session in real time and stream session data externally.
