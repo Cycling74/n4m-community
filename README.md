@@ -5,3 +5,5 @@ Hi Maxers! This repository contains a list of examples using Node For Max create
 _Please read the [contribution guidelines](https://github.com/Cycling74/n4m-community/blob/master/CONTRIBUTING.md) before contributing._
 
 ## List of Examples
+
+- [Electron Boilerplate](https://github.com/yuichkun/n4m-electron-ui) by [Yuichi Yogo](https://github.com/yuichkun). A plain boilerplate and guides to develop an electron app for Max.
