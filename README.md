@@ -12,4 +12,4 @@ _Please read the [contribution guidelines](https://github.com/Cycling74/n4m-comm
 - [Static D3.js](https://github.com/julianrubisch/n4m-examples/tree/master/static-d3js) by Julian from [Znibbles](https://www.znibbl.es/). Generate data visualizations with D3.js from Max.
 - [Nature of Code](https://github.com/dfamil/n4m-examples/tree/master/natureofcode) by [David Familian](https://github.com/dfamil). Examples from [Nature of Code](https://natureofcode.com/) by Daniel Shiffman, Vectors chapter.
 - [Node LOM](https://github.com/iamjoncannon/nodeLOM) by [Jonathan Cannon](https://github.com/iamjoncanno). Enable Node.js to manipulate a Live session in real time and stream session data externally.
-- [QRCode-generator](https://github.com/avantcontra/n4m-examples/tree/master/qrcode-generator) by [Contra](https://www.floatbug.com/contra/). Generate QRCode image from some text, web URL, etc.
+- [QRCode-generator](https://github.com/avantcontra/n4m-qrcode-generator) by [Contra](https://www.floatbug.com/contra/). Generate QRCode image from some text, web URL, etc.
