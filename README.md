@@ -32,4 +32,4 @@ We have adopted a Code of Conduct that we expect every participant to adhere to.
 Looking for other Node For Max resources?
 
 * [n4m-core-examples](https://github.com/Cycling74/n4m-core-examples/) A collection of Cycling '74 authored, core techniques and practices to get started 
-* [n4m-examples]() A collection of small-scale examples that show how to use Node For Max maintained by Cycling '74
+* [n4m-examples](https://github.com/Cycling74/n4m-examples) A collection of small-scale examples that show how to use Node For Max maintained by Cycling '74
