@@ -1,6 +1,6 @@
 # Node For Max Community examples
 
-Hi Maxers! This repository contains a list of examples using Node For Max created by and for the Max community. There is no code or patches in this repo, but only a list of links to code, patches, and media. You are welcome to submit examples created by you or by other folks.
+Hi Maxers! This repository contains a list of examples using Node For Max created by and for the Max community. There is no code or patches in this repo, but only a list of links to code, patches, and media. You are welcome to submit examples created by you or others.
 
 _Please read the [contribution guidelines](https://github.com/Cycling74/n4m-community/blob/master/CONTRIBUTING.md) before contributing._
 
@@ -13,3 +13,20 @@ _Please read the [contribution guidelines](https://github.com/Cycling74/n4m-comm
 - [Nature of Code](https://github.com/dfamil/n4m-examples/tree/master/natureofcode) by [David Familian](https://github.com/dfamil). Examples from [Nature of Code](https://natureofcode.com/) by Daniel Shiffman, Vectors chapter.
 - [Node LOM](https://github.com/iamjoncannon/nodeLOM) by [Jonathan Cannon](https://github.com/iamjoncanno). Enable Node.js to manipulate a Live session in real time and stream session data externally.
 - [QRCode-generator](https://github.com/avantcontra/n4m-qrcode-generator) by [Contra](https://www.floatbug.com/contra/). Generate QRCode image from some text, web URL, etc.
+
+## Contributing
+
+The main purpose of this repository is to showcase community projects and material related to Node For Max. Please feel free to contribute your work or the work of others. See the full [Contributing Guide](./CONTRIBUTING.md) for more details on how to participate in this project.
+
+In case you find an issue with an existing example or a non-working link please report this by [submitting an issue](https://github.com/Cycling74/n4m-community/issues/new) to this repository. Note that you will need to have a GitHub account to submit an issue. 
+
+### Code of Conduct
+
+We have adopted a Code of Conduct that we expect every participant to adhere to. You can find the full text [here](./CODE_OF_CONDUCT.md).
+
+## Other Resources
+
+Looking for other `Node For Max` resources?
+
+* [n4m-core-examples](https://github.com/Cycling74/n4m-core-examples/) A collection of Cycling '74 authored, core techniques and practices to get started with `Node For Max`
+* [n4m-examples]() A collection of small-scale examples that show how to use `Node For Max` maintained by Cycling '74

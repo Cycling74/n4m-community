@@ -1,6 +1,6 @@
 # Contrbuting
 
-All contributions must follow the [Code of Conduct](https://github.com/Cycling74/n4m-community/blob/master/CODE_OF_CONDUCT.md), and by contributing to this collection you are agreeing to abide by its rules. Any examples that do not follow the Code of Conduct are subject to removal.
+The Node for Max Examples repository is an open source project, and contributions and help from the community is strongly encouraged and important to improve the software. Contributions are therefore always welcome, no matter how large or small. Here are some things we'd like you to keep in mind in order to help with keeping the process smooth and organized. Please also read our [Code of Conduct](CODE_OF_CONDUCT.md). Any examples that do not follow the Code of Conduct are subject to removal.
 
 ## Adding a Node For Max Example
 
