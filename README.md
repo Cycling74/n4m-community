@@ -2,8 +2,6 @@
 
 Hi Maxers! This repository contains a list of examples using Node For Max created by and for the Max community. There is no code or patches in this repo, but only a list of links to code, patches, and media. You are welcome to submit examples created by you or others.
 
-_Please read the [contribution guidelines](https://github.com/Cycling74/n4m-community/blob/master/CONTRIBUTING.md) before contributing._
-
 ## List of Examples
 
 - [Electron Boilerplate](https://github.com/yuichkun/n4m-electron-ui) by [Yuichi Yogo](https://github.com/yuichkun). A plain boilerplate and guides to develop an electron app for Max.
@@ -26,7 +24,7 @@ We have adopted a Code of Conduct that we expect every participant to adhere to.
 
 ## Other Resources
 
-Looking for other `Node For Max` resources?
+Looking for other Node For Max resources?
 
-* [n4m-core-examples](https://github.com/Cycling74/n4m-core-examples/) A collection of Cycling '74 authored, core techniques and practices to get started with `Node For Max`
-* [n4m-examples]() A collection of small-scale examples that show how to use `Node For Max` maintained by Cycling '74
+* [n4m-core-examples](https://github.com/Cycling74/n4m-core-examples/) A collection of Cycling '74 authored, core techniques and practices to get started 
+* [n4m-examples]() A collection of small-scale examples that show how to use Node For Max maintained by Cycling '74
