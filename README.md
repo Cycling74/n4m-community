@@ -1,3 +1,8 @@
+<p align="center">
+	<img src="https://docs.cycling74.com/nodeformax/api/n4m-icon.png" width="200" height="200" alt="Node For Max">
+</p>
+
+
 # Node For Max Community examples
 
 Hi Maxers! This repository contains a list of examples using Node For Max created by and for the Max community. There is no code or patches in this repo, but only a list of links to code, patches, and media. You are welcome to submit examples created by you or others.
