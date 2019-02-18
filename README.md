@@ -1,3 +1,8 @@
+<p align="center">
+	<img src="https://docs.cycling74.com/nodeformax/api/n4m-icon.png" width="200" height="200" alt="Node For Max">
+</p>
+
+
 # Node For Max Community examples
 
 Hi Maxers! This repository contains a list of examples using Node For Max created by and for the Max community. There is no code or patches in this repo, but only a list of links to code, patches, and media. You are welcome to submit examples created by you or others.
@@ -27,4 +32,4 @@ We have adopted a Code of Conduct that we expect every participant to adhere to.
 Looking for other Node For Max resources?
 
 * [n4m-core-examples](https://github.com/Cycling74/n4m-core-examples/) A collection of Cycling '74 authored, core techniques and practices to get started 
-* [n4m-examples]() A collection of small-scale examples that show how to use Node For Max maintained by Cycling '74
+* [n4m-examples](https://github.com/Cycling74/n4m-examples) A collection of small-scale examples that show how to use Node For Max maintained by Cycling '74
