@@ -10,7 +10,7 @@ Hi Maxers! This repository contains a list of examples using Node For Max create
 ## List of Examples
 
 - [Electron Boilerplate](https://github.com/yuichkun/n4m-electron-boilerplate) by [Yuichi Yogo](https://github.com/yuichkun). A plain boilerplate and guides to develop an electron app for Max.
-- [PoseNet](https://github.com/yuichkun/n4m-examples/tree/master/posenet) by [Yuichi Yogo](https://github.com/yuichkun). Real-time Human Pose Estimation via webcam.
+- [PoseNet](https://github.com/yuichkun/n4m-posenet) by [Yuichi Yogo](https://github.com/yuichkun). Real-time Human Pose Estimation via webcam.
 - [Watch Youtube](https://github.com/julianrubisch/n4m-examples/tree/master/watch-youtube) by Julian from [Znibbles](https://www.znibbl.es/). Stream YouTube videos from Max.
 - [Static D3.js](https://github.com/julianrubisch/n4m-examples/tree/master/static-d3js) by Julian from [Znibbles](https://www.znibbl.es/). Generate data visualizations with D3.js from Max.
 - [Nature of Code](https://github.com/dfamil/n4m-examples/tree/master/natureofcode) by [David Familian](https://github.com/dfamil). Examples from [Nature of Code](https://natureofcode.com/) by Daniel Shiffman, Vectors chapter.
