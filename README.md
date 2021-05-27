@@ -19,6 +19,7 @@ Hi Maxers! This repository contains a list of examples using Node For Max create
 - [JS Bundler](https://github.com/fde31/n4m-js-bundler) by [fde31](https://github.com/fde31). Node For Max wrapper around the [max-js-bundler CLI Tool](https://github.com/fde31/max-js-bundler) to enable bundling and transpilation of modern JS projects for usage within [js] and [jsui].
 - [Mediapipe - Handpose](https://github.com/lysdexic-audio/n4m-handpose) by [lysdexic](https://github.com/lysdexic-audio/). Real-time hand tracking via webcam.
 - [Mediapipe - Facemesh](https://github.com/lysdexic-audio/n4m-facemesh) by [lysdexic](https://github.com/lysdexic-audio/). Real-time face-landmark tracking via webcam.
+- [Sentiment](https://github.com/lysdexic-audio/n4m-sentiment) by [lysdexic](https://github.com/lysdexic-audio/). Sentiment analysis for your Max patches made easy.
 
 ## Contributing
 
